@@ -1,17 +1,16 @@
-# Welcome to WoW Wotlk Wiki
+# Benvenuti nella wiki di WoW - Wrath of the lich King
 
 ### World of Warcraft (WoW)
 
-*   [Classes](Classes.md)
-*   [Factions](Factions.md)
-*   [Guides](Guides.md)
-*   [In-game events](In-game_events.md)
-*   [Instances by level](Instances_by_level.md)
-*   [Mounts](Mounts.md)
+*   [Classi](Classes.md)
+*   [Fazioni](Factions.md)
+*   [Guide](Guides.md)
+*   [Eventi in gioco](In-game_events.md)
+*   [Istanze per livello](Instances_by_level.md)
+*   [Cavalcature](Mounts.md)
 *   [Patches](Patches.md)
-*   [Races](Races.md)
+*   [Razze](Races.md)
 
-### Tools
+### Utilità
 
-*   [Addons Collection](https://github.com/wowgame/addons-335a-collection)
-
+*   [Collezione addons](https://github.com/wowgame/addons-335a-collection)
