@@ -1,10 +1,23 @@
 # Benvenuti sulla Wiki Italiana di WoW Wrath of the lich king
 
-[PAGINA PRINCIPALE](wiki/Home.md)
+# Benvenuti nella wiki di WoW - Wrath of the lich King
 
-[Informazioni](README.md)
+### World of Warcraft (WoW)
 
+*   [Classi](Classes.md)
+*   [Fazioni](Factions.md)
+*   [Guide](Guides.md)
+*   [Eventi in gioco](In-game_events.md)
+*   [Istanze per livello](Instances_by_level.md)
+*   [Cavalcature](Mounts.md)
+*   [Patches](Patches.md)
+*   [Razze](Races.md)
 
------
+### Utilità
 
-[Modifica questa pagina](https://github.com/wowgame/wiki-wotlk-it/edit/master/index.md)
+*   [Collezione addons](https://github.com/wowgame/addons-335a-collection)
+
+### Altro
+
+*   [Informazioni riguardo Wiki Wotlk](README.md)
+
