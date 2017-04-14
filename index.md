@@ -1,7 +1,5 @@
 # Benvenuti sulla Wiki Italiana di WoW Wrath of the lich king
 
-# Benvenuti nella wiki di WoW - Wrath of the lich King
-
 ### World of Warcraft (WoW)
 
 *   [Classi](Classes.md)
