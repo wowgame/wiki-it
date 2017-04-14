@@ -17,5 +17,5 @@
 
 ### Altro
 
-*   [Informazioni riguardo Wiki Wotlk](README.md)
+*   [Informazioni riguardo Wiki Wotlk](/README.md)
 
