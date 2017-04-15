@@ -2,7 +2,7 @@ title: WoW Wiki Ita
 description: World of Warcraft - wiki italiana
 show_downloads: true
 git_branch: master
-logo_url: https://wowgame.github.io/wiki-wotlk-en/assets/images/World-of-Warcraft-Logo.jpg
+logo_url: https://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg
 google_analytics:
 theme: 
 use_github_wiki: false
