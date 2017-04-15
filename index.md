@@ -1,5 +1,5 @@
 ---
 redirect_to:
-  - wiki-wotlk-it/wiki/Home.html
+  - wiki-it/wiki/Home.html
 ---
 
