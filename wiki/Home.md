@@ -12,7 +12,7 @@
 
 * [Wrath of the lich king](Wotlk_Home.md)
 
-* [The Burgning Crusade](Tbc_Home.md)
+* [The Burning Crusade](Tbc_Home.md)
 
 * [Classic](Classic_Home.md)
 
