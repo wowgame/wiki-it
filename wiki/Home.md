@@ -1,21 +1,25 @@
-# Benvenuti sulla Wiki Italiana di WoW Wrath of the lich king
+# Benvenuti nella Wiki dedicata a World of Warcraft
 
-### World of Warcraft (WoW)
+## PORTALI PER ESPANSIONE
 
-*   [Classi](Classes.md)
-*   [Fazioni](Factions.md)
-*   [Guide](Guides.md)
-*   [Eventi in gioco](In-game_events.md)
-*   [Istanze per livello](Instances_by_level.md)
-*   [Cavalcature](Mounts.md)
-*   [Patches](Patches.md)
-*   [Razze](Races.md)
+* [Legion](Legion_Home.md)
 
-### Utilità
+* [Warlords of Draenor](Wod_Home.md)
 
-*   [Collezione addons](https://github.com/wowgame/addons-335a-collection)
+* [Mists of Pandaria](Mop_Home.md)
 
-### Altro
+* [Cataclysm](Cata_Home.md)
 
-*   [Informazioni riguardo Wiki Wotlk](../README.md)
+* [Wrath of the lich king](Wotlk_Home.md)
 
+* [The Burgning Crusade](Tbc_Home.md)
+
+* [Classic](Classic_Home.md)
+
+## SVILUPPO
+
+* [Emulazione](Emulation.md)
+
+## Chi siamo
+
+* [LEGGIMI](../README.md)
