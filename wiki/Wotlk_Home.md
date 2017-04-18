@@ -1,6 +1,4 @@
-# Benvenuti sulla Wiki Italiana di WoW Wrath of the lich king
-
-### World of Warcraft (WoW)
+### World of Warcraft - Wrath of The Lich King (WoW - Wotlk)
 
 *   [Classi](Wotlk_Classes.md)
 *   [Fazioni](Factions.md)
