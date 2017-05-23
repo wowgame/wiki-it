@@ -189,9 +189,8 @@ hr {
 }
 
 footer {
-  width:270px;
+  padding-left: 320px;
   float:left;
-  position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -220,7 +219,7 @@ footer {
     padding-right:320px;
   }
 
-  section {
+  section, footer {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
