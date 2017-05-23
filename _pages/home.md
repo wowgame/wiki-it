@@ -9,8 +9,6 @@ _permalink: https://wowgaming.altervista.org/wp/it/
 published: true
 dsq_thread_id:
   - "5842316002"
-dsq_needs_sync:
-  - "1"
 tags: [ ]
 categories: [ ]
 ---
@@ -18,20 +16,20 @@ categories: [ ]
 
 ## PORTALI PER ESPANSIONE
 
-* [Legion](Legion_Home)
+* [Legion](legion-home)
 
-* [Warlords of Draenor](Wod_Home)
+* [Warlords of Draenor](wod-home)
 
-* [Mists of Pandaria](Mop_Home)
+* [Mists of Pandaria](mop-home)
 
-* [Cataclysm](Cata_Home)
+* [Cataclysm](cata-home)
 
-* [Wrath of the lich king](Wotlk_Home)
+* [Wrath of the lich king](wotlk-home)
 
-* [The Burning Crusade](Tbc_Home)
+* [The Burning Crusade](tbc-home)
 
-* [Classic](Classic_Home)
+* [Classic](classic-home)
 
 ## SVILUPPO
 
-* [Emulazione](Emulation)
+* [Emulazione](emulation)
