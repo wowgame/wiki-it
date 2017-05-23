@@ -8,6 +8,8 @@ layout: page
 _permalink: >
   https://wowgaming.altervista.org/wp/it/wotlk-home/
 published: true
+dsq_needs_sync:
+  - "1"
 tags: [ ]
 categories: [ ]
 ---
@@ -25,5 +27,4 @@ categories: [ ]
 <h3>Utilità</h3>
 <ul>
  	<li><a href="http://addons.wotlk.wowgaming.org">Collezione addons</a></li>
-</ul>
 </ul>
