@@ -1,5 +1,5 @@
 ---
 redirect_to:
-  - wiki-it/wiki/Home.html
+  - wiki-it/_pages/home.html
 ---
 
