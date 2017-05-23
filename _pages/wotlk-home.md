@@ -1,12 +1,12 @@
 ---
 ID: 63
-post_title: Wotlk_Home
+post_title: Wrath of The Lich King
 author: yehonal
 post_date: 2017-05-23 13:42:12
 post_excerpt: ""
 layout: page
 _permalink: >
-  https://wowgaming.altervista.org/wp/it/wotlk_home/
+  https://wowgaming.altervista.org/wp/it/wotlk-home/
 published: true
 tags: [ ]
 categories: [ ]
